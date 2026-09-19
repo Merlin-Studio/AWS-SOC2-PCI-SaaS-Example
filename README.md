@@ -91,3 +91,7 @@ repository was hand-written; every file, including the scorecards and the
 deployment guides, is generator output from one spec.
 
 Try it at [app.merlin-studio.cloud](https://app.merlin-studio.cloud).
+
+---
+
+⭐ If this saved you time, a star helps others find it.
